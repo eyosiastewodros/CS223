@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment4_InventoryProject
 {
-    class InventoryModel
+    class Inventory
     {
         public int number { get; set; }
         public DateTime date { get; set; }
@@ -14,7 +14,18 @@ namespace Assignment4_InventoryProject
         public String objectName { get; set; }
         public int count { get; set; }
         public double price { get; set; }
-        public void save(){}
+        int i=0;
+        //   Form1 form1=new Form1();
+        static public List<Inventory> listofproducts = new List<Inventory>();
+
+        public void save(){
+
+            listofproducts.Add(this); 
+           
+        }
+        static public List<Inventory> getAllProducts() {
+            return listofproducts;
+        }
     }
 }
 //InventoryModel inv=new InventoryModel{};
