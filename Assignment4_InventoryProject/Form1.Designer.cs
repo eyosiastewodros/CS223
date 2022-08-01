@@ -45,7 +45,6 @@ namespace Assignment4_InventoryProject
             this.btn_add = new System.Windows.Forms.Button();
             this.btn_cancel = new System.Windows.Forms.Button();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
-            this.who = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -191,15 +190,6 @@ namespace Assignment4_InventoryProject
             // 
             this.errorProvider1.ContainerControl = this;
             // 
-            // who
-            // 
-            this.who.AutoSize = true;
-            this.who.Location = new System.Drawing.Point(591, 9);
-            this.who.Name = "who";
-            this.who.Size = new System.Drawing.Size(35, 13);
-            this.who.TabIndex = 18;
-            this.who.Text = "label9";
-            // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -214,7 +204,6 @@ namespace Assignment4_InventoryProject
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(975, 642);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.who);
             this.Controls.Add(this.btn_cancel);
             this.Controls.Add(this.btn_add);
             this.Controls.Add(this.dateTimePicker1);
@@ -257,7 +246,6 @@ namespace Assignment4_InventoryProject
         private System.Windows.Forms.Button btn_add;
         private System.Windows.Forms.Button btn_cancel;
         private System.Windows.Forms.ErrorProvider errorProvider1;
-        private System.Windows.Forms.Label who;
         private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
