@@ -14,8 +14,15 @@ namespace Assignment4_InventoryProject
         public String objectName { get; set; }
         public int count { get; set; }
         public double price { get; set; }
-        //   Form1 form1=new Form1();
-        static public List<Inventory> listofproducts = new List<Inventory>();
+        public String originOfProduct { get; set; }
+
+        public String productState { get; set; }
+        public Boolean onsale { get; set; }
+        public Boolean  delivery{ get; set; }
+    public Boolean availabilty { get; set; }
+
+//   Form1 form1=new Form1();
+static public List<Inventory> listofproducts = new List<Inventory>();
 
         public void save(){
 

@@ -9,3 +9,4 @@ C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\As
 C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject(UPDATE).csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.exe
 C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.pdb
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.Login.resources
