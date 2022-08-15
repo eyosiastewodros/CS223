@@ -20,6 +20,11 @@ namespace Assignment4_InventoryProject
             InitializeComponent();
            label7.Text = "Welcome Back "+name;
         }
+        public Form1()
+        {
+
+            InitializeComponent();
+        }
 
         private void btn_add_Click(object sender, EventArgs e)
         {
@@ -144,7 +149,7 @@ namespace Assignment4_InventoryProject
                 }
                 else if (i.ToString() == "Free to ship")
                 {
-                    inventory.productState += true;
+                    inventory.productState += i;
                     check[8] = true;
                 }
                 else { check[6] = check[7] = check[8] = false; }
