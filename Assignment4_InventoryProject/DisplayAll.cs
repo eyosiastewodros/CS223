@@ -15,9 +15,7 @@ namespace Assignment4_InventoryProject
         public DisplayAll()
         {
             InitializeComponent();
-            dataGridDisplay.DataSource = null;
-            dataGridDisplay.DataSource = Inventory.getAllProducts();
-            dataGridDisplay.Show();
+          
 
         }
 
@@ -27,6 +25,23 @@ namespace Assignment4_InventoryProject
             Mainform mainform = new Mainform();
             mainform.Show();
             this.Close();
+        }
+
+        private void DisplayAll_Load(object sender, EventArgs e)
+        {
+            foreach (var item in Inventory.getAllProducts())
+            {
+                card p = new card();
+                p.Prodname = item.objectName;
+                p.Prodprice = item.price.ToString();
+                p.ProdinventoryNumber = item.inventoryNumber.ToString();
+
+
+
+                flowLayoutPanel1.Controls.Add(p);
+
+
+            }
         }
     }
 }

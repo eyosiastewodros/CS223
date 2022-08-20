@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment8_InventoryProject(UPDATE).csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment8_InventoryProject(UPDATE).csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.card.resources
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.DisplayAll.resources
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.Login.resources
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.Mainform.resources
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment8_InventoryProject(UPDATE).csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment8_InventoryProject(UPDATE).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.exe
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\obj\Debug\Assignment4_InventoryProject.pdb
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\bin\Debug\Assignment4_InventoryProject.exe.config
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\bin\Debug\Assignment4_InventoryProject.exe
+C:\Users\Lenovo\Documents\GitHub\CS223\Assignment4_InventoryProject\bin\Debug\Assignment4_InventoryProject.pdb

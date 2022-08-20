@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment6_InventoryProject(UPDATE)", "Assignment6_InventoryProject(UPDATE).csproj", "{59257F88-EA34-4C05-8136-260A6FF68775}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment8_InventoryProject(UPDATE)", "Assignment8_InventoryProject(UPDATE).csproj", "{59257F88-EA34-4C05-8136-260A6FF68775}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
