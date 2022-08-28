@@ -35,9 +35,13 @@ namespace Assignment4_InventoryProject
                 p.Prodname = item.objectName;
                 p.Prodprice = item.price.ToString();
                 p.ProdinventoryNumber = item.inventoryNumber.ToString();
+                   p.Click += button1_Click;
+                //also add detail page on photo
+                // databse lemetekem we just gott a import
+                //SEnd connection string When creating object
+                //SqlConnection s=new SqlConnection(//in here we have a string that begins with an @ signs(whuch helps us ignore escape characters));
 
-
-
+                //two types of authentication //windows and Sql(learn them)
                 flowLayoutPanel1.Controls.Add(p);
 
 

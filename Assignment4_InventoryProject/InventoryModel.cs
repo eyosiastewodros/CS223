@@ -22,16 +22,21 @@ namespace Assignment4_InventoryProject
     public Boolean availabilty { get; set; }
         
 //   Form1 form1=new Form1();
+ static Connectionprovider getall =new Connectionprovider();
+        Inventory inv = new Inventory();
 static public List<Inventory> listofproducts = new List<Inventory>();
         string r;
-
         public void save(){
 
             listofproducts.Add(this); 
+             Connectionprovider conobj=new Connectionprovider(inv);
+
            
         }
         static public List<Inventory> getAllProducts() {
-            return listofproducts;
+             Connectionprovider getall = new Connectionprovider();
+
+            return getall.list;
         }
 
        // public static List<Inventory> findOne(string name);

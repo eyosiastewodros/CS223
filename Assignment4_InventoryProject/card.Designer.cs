@@ -72,6 +72,7 @@
             this.Controls.Add(this.label1);
             this.Name = "card";
             this.Size = new System.Drawing.Size(285, 232);
+            this.Click += new System.EventHandler(this.card_Click);
             this.ResumeLayout(false);
             this.PerformLayout();
 

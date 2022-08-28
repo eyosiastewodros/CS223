@@ -48,5 +48,10 @@ namespace Assignment4_InventoryProject
             get { return prodprice; }
             set { prodprice = value; label2.Text = value; }
         }
+
+        private void card_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Card Clicked");
+        }
     }
 }
